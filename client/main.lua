@@ -1,3 +1,5 @@
+QBCore = exports['qb-core']:GetCoreObject()
+
 Citizen.CreateThread(function()
 	local GUI, MenuType = {}, 'default'
 	GUI.Time = 0
