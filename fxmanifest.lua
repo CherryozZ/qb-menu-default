@@ -14,11 +14,6 @@ ui_page {
 	'html/ui.html'
 }
 
-shared_script {
-	'@qb-core/import.lua'
-}
-
-
 files {
 	'html/*.html',
 	'html/css/*.css',
